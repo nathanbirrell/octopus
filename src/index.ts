@@ -1,1 +1,1 @@
-export * from "./rules/releaseRetention";
+export * from "./rules/getRetainedReleases";
